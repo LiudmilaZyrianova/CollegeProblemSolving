@@ -1,3 +1,4 @@
-# LeetCodeProblems\
+# LeetCodeProblems
 
-Problems, which I solved from LeetCode.
+Solved Problems from LeetCode.
+Check out Statistics!
