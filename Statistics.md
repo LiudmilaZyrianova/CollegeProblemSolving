@@ -1,21 +1,24 @@
-SOLVED:  (There is better solution = '~') (Googled one function / forgot syntaxis detail = '^') 
+#H5 Solved:  
+#H6 (There is better solution = '~') (Googled one function / forgot syntaxis detail = '^') 
+</br>
+04/16/2018 - 88~  </br>
+09/19/2018 - 118, 66  </br>
+04/14/2019 - 26^, 27^, 209  </br>
+04/15/2019 - 162~ </br>
 
-04/16/2018 - 88~
-09/19/2018 - 118, 66
-04/14/2019 - 26^, 27^, 209
-04/15/2019 - 162~
+#H5 Done by myself but need attention:
+</br>
+04/14/2019 - 16, 31 </br>
+04/15/2019 - 153  </br>
 
+#H5 Done with the help:
+</br>
 
-DONE BY MYSELF BUT NEED ATTENTION:
-04/14/2019 - 16, 31
-04/15/2019 - 153
-
-
-DONE WITH HELP:
-
-
-
+#H5 Sources:
 [Original](https://github.com/Semaserg/LeetCodeProblems/blob/master/statistics)
-Whole text: https://tproger.ru/articles/work-in-google/
-Problems: https://leetcode.com/problemset/all/
-Topics: https://www.interviewbit.com/courses/programming/
+</br>
+[Whole text](https://tproger.ru/articles/work-in-google/)
+</br>
+[Problems](https://leetcode.com/problemset/all/)
+</br>
+[Topics](https://www.interviewbit.com/courses/programming/)
