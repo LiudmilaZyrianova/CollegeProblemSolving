@@ -16,6 +16,6 @@ DONE WITH HELP:
 
 
 [Original](https://github.com/Semaserg/LeetCodeProblems/blob/master/statistics)
-(Whole text)[https://tproger.ru/articles/work-in-google/]
+Whole text: https://tproger.ru/articles/work-in-google/
 Problems: https://leetcode.com/problemset/all/
 Topics: https://www.interviewbit.com/courses/programming/
