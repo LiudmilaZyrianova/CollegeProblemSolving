@@ -11,6 +11,12 @@
 
 ### Done with the help:
 
+### Plan:
+ 128,268,122
+ 120,34,35
+ 106
+ 216
+
 ### Sources:
 [Original](https://github.com/Semaserg/LeetCodeProblems/blob/master/statistics)
 </br>
