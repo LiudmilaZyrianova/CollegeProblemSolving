@@ -18,7 +18,6 @@
 ### Done with the help:
 
 ### Plan:
- 35
  106
  216
 
