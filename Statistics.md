@@ -17,9 +17,10 @@
 
 
 ### Done with the help:
+08/27/2019 - 216!! </br>
 
 ### Plan:
- 106
+105, 204,1,290,349,242,350
 
 ### Sources:
 [Original](https://github.com/Semaserg/LeetCodeProblems/blob/master/statistics)
