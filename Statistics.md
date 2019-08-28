@@ -1,14 +1,14 @@
 ### Solved:  
-##### (There is better solution = '%') (There is slightly optimized solution = '~') (Googled one function / forgot syntaxis detail = '^') 
+##### (There is better solution = '%') (There is slightly optimized solution = '&') (Googled one function / forgot syntaxis detail = '^') 
 04/16/2018 - 88%  </br>
 09/19/2018 - 118, 66  </br>
 04/14/2019 - 26^, 27^, 209  </br>
 04/15/2019 - 162% </br>
 04/17/2019 - 128% </br>
 04/18/2019 - 268, 122  </br>
-08/26/2019 - 120^~, 35  </br>
+08/26/2019 - 120^&, 35  </br>
 08/27/2019 - 216 </br>
-08/28/2019 - 105, 204~ </br>
+08/28/2019 - 105, 204& </br>
 
 ### Done by myself but need attention:
 04/14/2019 - 16, 31 </br>
