@@ -20,7 +20,6 @@ vector<int> intersection(vector<int>& nums1, vector<int>& nums2){
             new_nums1.insert(e);
         }
     }
-
     for (int e : nums2){
         if (new_nums1.find(e) != new_nums1.end()){
             res.push_back(e);
