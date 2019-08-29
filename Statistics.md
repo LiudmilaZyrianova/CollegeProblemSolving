@@ -17,13 +17,14 @@
 04/17/2019 - 126!  </br>
 08/26/2019 - 34& </br>
 08/28/2019 - 204& </br>
+08/29/2019 - 350 </br>
 
 
 ### Done with the help:
 08/27/2019 - 216!! </br>
 
 ### Plan:
-350
+202,219,205,94,49
 
 ### Sources:
 [Original](https://github.com/Semaserg/LeetCodeProblems/blob/master/statistics)
