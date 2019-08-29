@@ -9,6 +9,7 @@
 08/26/2019 - 120^&, 35  </br>
 08/27/2019 - 216 </br>
 08/28/2019 - 105, 204&, 290^, 349%& </br>
+08/29/2019 - 242& </br>
 
 ### Done by myself but need attention:
 04/14/2019 - 16, 31 </br>
@@ -21,7 +22,7 @@
 08/27/2019 - 216!! </br>
 
 ### Plan:
-242,350
+350
 
 ### Sources:
 [Original](https://github.com/Semaserg/LeetCodeProblems/blob/master/statistics)
