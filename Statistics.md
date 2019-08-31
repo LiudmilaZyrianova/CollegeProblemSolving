@@ -1,5 +1,5 @@
 ### Solved:  
-##### (There is better solution = '%') (There is slightly optimized solution = '&') (Googled one function / forgot syntaxis detail = '^') 
+##### (There is better solution = '%') (There is slightly optimized solution = '&') (Googled one function / forgot syntaxis detail = '^')  (New idea = N)
 04/16/2018 - 88%  </br>
 09/19/2018 - 118, 66  </br>
 04/14/2019 - 26^, 27^, 209  </br>
@@ -10,6 +10,7 @@
 08/27/2019 - 216 </br>
 08/28/2019 - 105, 290^, 349%& </br>
 08/29/2019 - 242& </br>
+08/30/2019 - 202, 49 </br>
 
 ### Done by myself but need attention:
 04/14/2019 - 16, 31 </br>
@@ -18,13 +19,15 @@
 08/26/2019 - 34& </br>
 08/28/2019 - 204& </br>
 08/29/2019 - 350 </br>
+08/30/2019 - 219%, 205%!, 94N! </br>
 
 
 ### Done with the help:
 08/27/2019 - 216!! </br>
+08/30/2019 - 202, 49 </br>
 
 ### Plan:
-202,219,205,94,49
+6,38, 20,125,28,67, 58,14,227
 
 ### Sources:
 [Original](https://github.com/Semaserg/LeetCodeProblems/blob/master/statistics)
