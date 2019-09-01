@@ -31,7 +31,7 @@
 14,227, 22,234,19,21,160,203,206,237,  24,143,  8,9,7,168,223,278
 
 ### To know:
-Threaded binary tree and Explaination of Morris Method, string.trim()
+Threaded binary tree and Explaination of Morris Method, string.trim(), StringBuilder.reverse
 
 ### Sources:
 [Original](https://github.com/Semaserg/LeetCodeProblems/blob/master/statistics)
