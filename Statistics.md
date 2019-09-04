@@ -28,9 +28,10 @@
 ### Done with the help:
 08/27/2019 - 216!! </br>
 09/03/2019 - 227!! </br>
+09/04/2019 - 22!! </br>
 
 ### Plan:
-22,234,19,21,160,203,206,237,  24,143,  8,9,7,168,223,278
+234,19,21,160,203,206,237,  24,143,  8,9,7,168,223,278
 
 ### To know:
 Threaded binary tree and Explaination of Morris Method, string.trim(), StringBuilder.reverse
