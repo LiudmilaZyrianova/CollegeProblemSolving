@@ -14,7 +14,7 @@
 08/31/2019 - 6&, 38 </br>
 09/01/2019 - 20, 125&, 28, 67^, 58 </br>
 09/02/2019 - 14 </br>
-09/04/2019 - 19! </br>
+09/04/2019 - 19!, 21& </br>
 
 ### Done by myself but need attention:
 04/14/2019 - 16, 31 </br>
@@ -33,7 +33,7 @@
 09/04/2019 - 22!! </br>
 
 ### Plan:
-19,21,160,203,206,237,  24,143,  8,9,7,168,223,278
+160,203,206,237,  24,143,  8,9,7,168,223,278
 
 ### To know:
 Threaded binary tree and Explaination of Morris Method, string.trim(), StringBuilder.reverse
