@@ -29,7 +29,7 @@
 
 
 ### Plan:
-62,63,64,225,155
+63,64,225,155
 
 ### To know:
 Threaded binary tree and Explaination of Morris Method, string.trim(), StringBuilder.reverse
