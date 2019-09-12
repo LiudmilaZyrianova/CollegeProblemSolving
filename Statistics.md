@@ -26,15 +26,16 @@
 | 09/09/2019 | 278!                    | 303!, 374%N                       | 378!!              |
 | 09/10/2019 |                         |                                   | 222!!              |
 | 09/11/2019 | 232&, 62                | 50%                               |                    |
-| 09/13/2019 | 63&                     |                                   |                    |
+| 09/13/2019 | 63&, 64                 |                                   |                    |
 
 
 
 ### Plan:
-64,225,155
+225,155
 
 ### To know:
-Threaded binary tree and Explaination of Morris Method, string.trim(), StringBuilder.reverse
+Threaded binary tree and Explaination of Morris Method, string.trim(), StringBuilder.reverse.
+When do dynamic pr, fill top row and left row separately.
 
 ### Sources:
 [Original](https://github.com/Semaserg/LeetCodeProblems/blob/master/statistics)
