@@ -28,11 +28,16 @@
 | 09/11/2019 | 232&, 62                | 50%                               |                    |
 | 09/13/2019 | 63&, 64                 |                                   |                    |
 | 09/14/2019 | 225&                    |                                   |                    |
+| 09/15/2019 |                         | 155&                              |                    |
 
 
 
 ### Plan:
-155
+144,150,71
+107,101,341,304
+257,98,199,173,129,74
+110,102,111
+96,191
 
 ### To know:
 Threaded binary tree and Explaination of Morris Method, string.trim(), StringBuilder.reverse.
