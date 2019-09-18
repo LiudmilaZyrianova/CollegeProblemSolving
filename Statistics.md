@@ -42,7 +42,7 @@
 
 ### To know:
 Threaded binary tree and Explaination of Morris Method, string.trim(), StringBuilder.reverse.
-When do dynamic pr, fill top row and left row separately.
+When do dynamic pr, fill top row and left row separately. Inorder using stack
 
 ### Sources:
 [Original](https://github.com/Semaserg/LeetCodeProblems/blob/master/statistics)
