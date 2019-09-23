@@ -46,7 +46,7 @@
 
 ### To know:
 Threaded binary tree and Explaination of Morris Method, string.trim(), StringBuilder.reverse.
-When do dynamic pr, fill top row and left row separately. Inorder using stack. DFS bottom up (110). When do bst w/ queue, keep track of levels using (int levelNum = queue.size();) (102)
+When do dynamic pr, fill top row and left row separately. Inorder using stack. DFS bottom up (110). When do bst w/ queue, keep track of levels using (int levelNum = queue.size(); the for-loop) (102)
 
 ### Sources:
 [Original](https://github.com/Semaserg/LeetCodeProblems/blob/master/statistics)
