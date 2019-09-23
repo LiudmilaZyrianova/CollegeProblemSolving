@@ -35,18 +35,18 @@
 | 09/19/2019 | 173&                    |                                   |                    |
 | 09/20/2019 | 129,74&                 |                                   |                    |
 | 09/21/2019 |                         | 110%!                             |                    |
-| 09/22/2019 |                         |                                   |                    |
+| 09/22/2019 | 102                     |                                   |                    |
 | 09/23/2019 |                         |                                   |                    |
 
 
 
 ### Plan:
-102,111
+111
 96,191
 
 ### To know:
 Threaded binary tree and Explaination of Morris Method, string.trim(), StringBuilder.reverse.
-When do dynamic pr, fill top row and left row separately. Inorder using stack. DFS bottom up (110)
+When do dynamic pr, fill top row and left row separately. Inorder using stack. DFS bottom up (110). When do bst w/ queue, keep track of levels using (int levelNum = queue.size();) (102)
 
 ### Sources:
 [Original](https://github.com/Semaserg/LeetCodeProblems/blob/master/statistics)
