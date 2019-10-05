@@ -39,11 +39,12 @@
 | 09/23/2019 | 111, 96%                |                                   |                    |
 | 09/24/2019 | 191                     |                                   |                    |
 | 09/25/2019 | 231                     |                                   |                    |
+| 10/05/2019 | 169                     |                                   |                    |
 
 
 
 ### Plan:
-23.08 - 190,169,342,136,112,387
+23.08 - 190,342,136,112,387
 24.08 - 260
 25.08 - 113
 26.08 - 33,200
@@ -55,7 +56,7 @@
 ### To know:
 Threaded binary tree and Explaination of Morris Method, string.trim(), StringBuilder.reverse.
 When do dynamic pr, fill top row and left row separately. Inorder using stack. DFS bottom up (110). When do bst w/ queue, keep track of levels using (int levelNum = queue.size(); the for-loop) (102). Use 1D array for DP instead of 2D (96). (n & 1); n = n>>>1; (191)
-Power of 2 means only one bit of n is '1', so use the trick n&(n-1)==0 (231)
+Power of 2 means only one bit of n is '1', so use the trick n&(n-1)==0 (231). Boyer-Moore Voting Algorithm (169)
 
 ### Sources:
 [Original](https://github.com/Semaserg/LeetCodeProblems/blob/master/statistics)
