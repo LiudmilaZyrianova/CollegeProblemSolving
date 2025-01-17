@@ -10,4 +10,4 @@ https://leetcode.com/studyplan/top-interview-150/
 | Date       | Solved                  | Done by myself but need attention | Done with the help | Notes         |
 | -----------|-------------------------| ----------------------------------| -------------------| --------------|
 | 01/16/2025 | 26&                     |                                   |                    | prettier code |
-| 01/17/2025 | 88&                     |                                   |                    | Not forget edge cases|
+| 01/17/2025 | 88&, 27&                |                                   |                    | Not forget edge cases|
