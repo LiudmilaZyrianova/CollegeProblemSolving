@@ -1,5 +1,5 @@
 //88. Merge Sorted Array
-//DONT forget edge cases!
+//DONT forget edge cases! and start from the end!
 public void merge(int[] nums1, int m, int[] nums2, int n) {
         if ((m == 0) && (n == 0)) return;
         int i = m+n-1;
