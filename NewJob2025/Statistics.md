@@ -11,4 +11,4 @@ https://leetcode.com/studyplan/top-interview-150/
 | -----------|-------------------------| ----------------------------------| -------------------| --------------|
 | 01/16/2025 | 26&                     |                                   |                    | prettier code |
 | 01/17/2025 | 88&, 27&                |                                   |**169N**            | Not forget edge cases|
-| 01/21/2025 |                 |                                   |**121N**            | New Algo|
+| 01/21/2025 | 58, 14&, **125&^**, 392                |                                   |**121N**            | New Algo; function calls take extra space to store results|
