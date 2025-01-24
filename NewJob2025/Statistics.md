@@ -14,3 +14,4 @@ Plan:
 | 01/21/2025 | 58, 14&, **125&^**, 392                |                                   |**121N**            | New Algo; function calls take extra space to store results|
 | 01/22/2025 | 28, **13%**, 205%, 228              | **383%**                                  |           | Cleaner to store constants in hash map, alphabet can be counten in arr[26], char to 200 |
 | 01/23/2025 | 70, 9&, 67&, 108              | **35** - bin search, **530** - in-order trav                |           | DP over recustion, polyndromes by actual swapping, array to BST via recurrsion |
+| 01/26/2025 | 66%, 141%,             | **191N** - bit manipulation, **637%** - BFS using queue             | **222N** - complete BST          | Cycle in LinkedList using fast and slow pointers, BST via BFS using queue |
