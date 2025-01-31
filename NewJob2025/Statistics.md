@@ -18,3 +18,4 @@ Plan:
 | 01/27/2025 | 290, 20, 21, 69, 104             |             |          | Bijection - use two hashes; stack java; LL - recursive and skip the tail by pointing at it, **BIN SEARCH** |
 | 01/28/2025 | 242, 1, 100, 226           |  **190** - bit           |          | Bit manipulation AND/OR |
 | **01/29/2025** | 80&, 202%           | **167** - sum in sorted array via shifting right and left ptrs           | **189** - rotate array via reversal, **209** - sliding window move right ptr using FOR and left based on condit        | any LinkedList problem resolved using fast&slow ptr eg 202 about numbers |
+| **01/30/2025** |           | **122%** - greedy, 36% encode seen sudoku          | **11** - greedy two pointers, **56** - sort before merging        | Kadane algo 121, Try sorting first!! |
