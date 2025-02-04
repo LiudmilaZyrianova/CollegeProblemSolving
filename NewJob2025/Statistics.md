@@ -20,3 +20,6 @@ Plan:
 | **01/29/2025** | 80&, 202%           | **167** - sum in sorted array via shifting right and left ptrs           | **189** - rotate array via reversal, **209** - sliding window move right ptr using FOR and left based on condit        | any LinkedList problem resolved using fast&slow ptr eg 202 about numbers |
 | **01/30/2025** |           | **122%** - greedy, 36% encode seen sudoku          | **11** - greedy two pointers, **56** - **sort before merging**        | Kadane algo 121, Try sorting first!! |
 | 01/31/2025 | 219& - store only k nums, 2& - 2LL use OR condition, **105&** - store inorder locations in hash          | **71%** - directory via stack by splitting string, **17%** - backtracking    | **200N** - grid search via BFS via queue     |  |
+| 02/03/2025 | 199, 208, 74&, 112         |   | **230** - kth in bst via dfs by adding to the node the count in the subtree    | Trie for autocomplete(208), DFS ia STACK??  |
+
+DFS ia STACK?
