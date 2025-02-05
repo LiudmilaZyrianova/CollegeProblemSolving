@@ -22,5 +22,6 @@ Plan:
 | 01/31/2025 | 219& - store only k nums, 2& - 2LL use OR condition, **105&** - store inorder locations in hash          | **71%** - directory via stack by splitting string, **17%** - backtracking    | **200N** - grid search via BFS via queue     |  |
 | 02/03/2025 | 199, 208, 74&, 112         |   | **230** - kth in bst via dfs by adding to the node the count in the subtree    | Trie for autocomplete(208), DFS ia STACK??  |
 | 02/04/2025 | 198, 120 - rec longer dp        | 215   |    | Quicksort and heap (PQ - 215)  |
+| 02/05/2025 | 55, 54, 136       | 15 - avoid dupes via set or just skipping, 3& - diff shift substring, and 128 chars   | 128 - seq via hashset, **148** - mergeSort in LL   | mergeSort in LL, find non dupe in arr via bit XOR ^ (136) |
 
 DFS ia STACK?
