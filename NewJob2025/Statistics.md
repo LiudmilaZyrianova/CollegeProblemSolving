@@ -24,5 +24,6 @@ Plan:
 | 02/04/2025 | 198, 120 - rec longer dp        | 215   |    | Quicksort and heap (PQ - 215)  |
 | 02/05/2025 | 55, 54, 136       | 15 - avoid dupes via set or just skipping, 3& - diff shift substring, and 128 chars   | 128 - seq via hashset, **148** - mergeSort in LL   | mergeSort in LL, find non dupe in arr via bit XOR ^ (136) |
 | 02/06/2025 | 77, 162   | **117** - bfs via "next" nodes, **11%** - symmetric BFS via reccur    | **53** - Kadane,DP,D&C  |  |
+| 02/07/2025 | 139, 33   | **64** - DP instead of Dijkstra!!   | **130** - **DFS**  |  |
 
 DFS ia STACK?
