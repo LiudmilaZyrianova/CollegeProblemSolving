@@ -25,5 +25,5 @@ Plan:
 | 02/05/2025 | 55, 54, 136       | 15 - avoid dupes via set or just skipping, 3& - diff shift substring, and 128 chars   | 128 - seq via hashset, **148** - mergeSort in LL   | mergeSort in LL, find non dupe in arr via bit XOR ^ (136) |
 | 02/06/2025 | 77, 162   | **117** - bfs via "next" nodes, **11%** - symmetric BFS via reccur    | **53** - Kadane,DP,D&C  |  |
 | 02/07/2025 | 139, 33   | **64** - DP instead of Dijkstra!!   | **130** - **DFS**  |  |
+| 02/10/2025 | 63, 153, 46  | **98** - DFS VIA STACK  | **909** - **BFS** !!! **322** - DP | 63 slight optim by storing 0 on obstacle, 153 bs edge cases |
 
-DFS ia STACK?
