@@ -27,3 +27,4 @@ Plan:
 | 02/07/2025 | 139, 33   | **64** - DP instead of Dijkstra!!   | **130** - **DFS**  |  |
 | 02/10/2025 | 63, 153, 46  | **98** - DFS VIA STACK  | **909** - **BFS** !!! **322** - DP | 63 slight optim by storing 0 on obstacle, 153 bs edge cases |
 | 02/11/2025 | 34  | **22** - backtrack forward**!!!**  | **238** - arr * except self - suff and prefix |  |
+| 02/12/2025 | 73&, 6, 19% - move the gap in LL  | |  |  |
