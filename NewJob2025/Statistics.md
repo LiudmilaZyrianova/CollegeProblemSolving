@@ -29,3 +29,4 @@ Plan:
 | 02/11/2025 | 34  | **22** - backtrack forward**!!!**  | **238** - arr * except self - suff and prefix |  |
 | 02/12/2025 | 73&, 6, 19% - move the gap in LL  | |  |  |
 | 02/13/2025 | 49  | 102 - **pre-order trav**, 155% - one stack |  |  |
+| 02/19/2025 | 150&  |  | 129 - **DFS via recur** |  |
