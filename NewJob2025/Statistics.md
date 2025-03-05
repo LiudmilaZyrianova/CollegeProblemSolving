@@ -31,3 +31,4 @@ Plan:
 | 02/13/2025 | 49  | 102 - **pre-order trav**, 155% - one stack |  |  |
 | 02/19/2025 | 150&  |  | 129 - **DFS via recur** |  |
 | 02/28/2025 | 106& - preprocess inorder in map, 173  | 79 - backtrack!! |  | Use stack for DFS in BST - push only leftmost, backtrack |
+| 03/05/2025 | 134  |  |  |  |
